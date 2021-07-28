@@ -1,8 +1,8 @@
 ### Hi there im Mauro  👋
-# I'm a Full Stack Developer
-# I love programming, and i'm able to be a wonderful person, who want's to be learning every time. I'm constant learning about new technologies and i am very motivated about deal new challenges on this race.
+ I'm a Full Stack Developer
+ I love programming, and i'm able to be a wonderful person, who want's to be learning every time. I'm constant learning about new technologies and i am very motivated about deal new challenges on this race.
 
-# Skills: Javascript / HTML / CSS / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
+Skills: Javascript / HTML / CSS / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
 <!--
 **stringedcat/stringedcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
