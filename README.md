@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mobile develoopment with React Native.
 - 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about information about my projects.
-- 📫 How to reach me: +5493884639747 or on my linkedIn
+- 📫 How to reach me: +5493884639747 or on my linkedIn 🎆
 - 😄 Pronouns: Tin, Mauricio,
 
 
@@ -19,4 +19,4 @@ Coming soon: My Portfolio...
 
 These are my used technologies:
 
-![alt text](http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png)
+<img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" />
