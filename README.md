@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Tin, Mauricio,
 
 - LinkedIn: https://www.linkedin.com/in/mauro-loyola-b1a2b51aa/
+
+
 Coming soon: My Portfolio...
 
 Languages and Tools:
