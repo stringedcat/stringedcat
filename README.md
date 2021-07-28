@@ -19,4 +19,4 @@ Coming soon: My Portfolio...
 
 These are my used technologies:
 
-<img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" />
+![GitHub Logo](http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png)
