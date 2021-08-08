@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about information about my projects.
 - 📫 How to reach me: +5493884639747 or on my linkedIn 🎆
-- 😄 Pronouns: Tin, Mauricio,
+- 😄 Pronouns: Tin, Mauricio
 
-- LinkedIn: https://www.linkedin.com/in/mauro-loyola-b1a2b51aa/
+- LinkedIn: https://www.linkedin.com/in/mauro-loyola
 
 
 Coming soon: My Portfolio...
