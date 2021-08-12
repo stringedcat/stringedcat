@@ -4,7 +4,7 @@
 
 Skills: Javascript / HTML / CSS / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
 
-- 🔭 I’m currently working on final project of Henry's Bootcamp.
+- 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course.
 - 🌱 I’m currently learning mobile develoopment with React Native.
 - 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about information about my projects.
