@@ -11,7 +11,7 @@ Skills: Javascript / HTML / CSS / React / Redux / SCSS / Styled - Components / M
 - 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola/) 🎆
 - 😄 Pronouns: Tin and Mauricio
 
-- LinkedIn: https://www.linkedin.com/in/mauro-loyola
+- LinkedIn: https://www.linkedin.com/in/mauro-loyola/
 
 
 Coming soon: My Portfolio...
