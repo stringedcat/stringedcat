@@ -2,7 +2,7 @@
  I'm a Full Stack Developer cause
  I love programming 👨‍💻, and I'm in constant work, who want's to be learning every time 🕵️‍♂️. I'm constant learning about new technologies and i am very motivated about deal new challenges on this race 🚴‍.
 
-Skills: Javascript / HTML / CSS / React / Redux / SCSS / Styled - Components / Material UI / Express / PostgreSQL / Git / Sequelize
+Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express / PostgreSQL / Git / Sequelize
 
 - 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course i ever studied and challenged me.
 - 🌱 I’m currently learning development AWS with React Native.
