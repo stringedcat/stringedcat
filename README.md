@@ -9,7 +9,6 @@ Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express /
 - 👯 I’m looking to collaborate on many projects.
 - 💬 Ask me about information about my projects.
 - 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola/) 🎆
-- 😄 Pronouns: Tin
 
 - LinkedIn: https://www.linkedin.com/in/mauro-loyola/
 
