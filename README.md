@@ -7,7 +7,7 @@ Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express /
 - 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course i ever studied and challenged me.
 - 🌱 I’m currently learning development AWS with React Native.
 - 👯 I’m looking to get a job as a Front End Developer.
-- 💬 Ask me about information about my projects.
+- 💬 Ask me about information about my projects, i've many of them using many tools i learned.
 - 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola/) 🎆
 
 - LinkedIn: https://www.linkedin.com/in/mauro-loyola/
