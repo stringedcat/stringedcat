@@ -4,7 +4,7 @@
  
 ## Check my Portfolio: https://mauro-loyola.vercel.app/ 🔥🔥🔥🔥
 
-## Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express / PostgreSQL / Git / Sequelize
+## Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express / PostgreSQL / Git / Sequelize / Firebase
 
 - 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course I ever studied and challenged me, I still studying IT engineer on my university.
 - 🌱 I’m currently learning development with React Native now.
