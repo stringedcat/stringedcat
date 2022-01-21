@@ -9,7 +9,7 @@
 - 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course I ever studied and challenged me, I still studying IT engineer on my university.
 - 🌱 I’m currently learning development with React Native now.
 - 👯 I’m looking to get a job as a Front End Developer.
-- 💬 Ask me about information about my projects, i've many of them using many tools i learned.   
+- 💬 Ask me about information about my projects, i've made many of them using many tools i learned.   
 - 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola) 🎆 
 
 
