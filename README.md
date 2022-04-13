@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning development with React Native now.
 - 👯 I’m looking to get a job as a Front End Developer.
 - 💬 Ask me about information about my projects, We've made many of them using many tools I learned.   
-- 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola) 🎆 
+- 📫 How to reach me: +5493884639747 or on my linkedIn(https://www.linkedin.com/in/mauro-loyola) 🎆  
 
 
 Languages and Tools:
