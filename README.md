@@ -1,10 +1,6 @@
 # Hi there I'm Mauro  👋
  I'm a Full Stack Developer cause
  I love programming 👨‍💻, and I'm in constant work to improve myself, who want to be learning every time 🕵️‍♂️. I'm constant learning about new technologies and i am very motivated about deal new challenges on this race 🚴‍.
- 
-## Check my Portfolio: https://mauro-loyola.vercel.app/ 🔥🔥🔥🔥
-
-## Skills: Javascript / HTML / CSS / React / Redux / SASS / Material UI / Express / PostgreSQL / Git / Sequelize / Firebase
 
 - 🔭 I’m finally finished Henry's Bootcamp which was the most intensive academic course I ever studied and challenged me, I still studying IT engineer on my university.
 - 🌱 I’m currently learning development with React Native now.
